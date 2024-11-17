@@ -1,4 +1,0 @@
-买胡萝卜：
-buy(radish)
-买水龙头:
-buy(tap)

@@ -1,5 +1,0 @@
-输入：handoff(\要前往的地方\)
-前往菜市场：
-handoff(Market)
-前往树林：
-handoff(wood)
